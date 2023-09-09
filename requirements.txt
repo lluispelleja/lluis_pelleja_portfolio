@@ -1,1 +1,12 @@
 # This file will contain all the packages for my app to run
+pandas==1.5.2
+numpy==1.24.2
+scikit-learn~=1.0
+requests~=2.26.0
+datetime==5.1
+json5==0.9.6
+matplotlib==3.6.2
+seaborn==0.11.2
+streamlit~=1.17.0
+joblib~=1.2.0
+streamlit_autorefresh==0.0.1
